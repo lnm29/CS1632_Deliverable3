@@ -305,27 +305,4 @@ public class Deliverable3Test {
 		//assertTrue(numberText.contains("3."));
 	}
 	
-	/*@Test
-	public void ()
-	{
-		
-	}
-	
-	@Test
-	public void ()
-	{
-		
-	}
-	
-	@Test
-	public void ()
-	{
-		
-	}
-	
-	@Test
-	public void ()
-	{
-		
-	}*/
 }
